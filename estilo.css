@@ -1,0 +1,27 @@
+body{
+    background-image: url(s2-my-favourites-screenshots-from-lis2-this-game-has-such-a-v0-h7rrojdf91p71.jpg) ;
+    background-size: 1920px 980px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    h1 {
+        color: aliceblue;
+        
+        
+    }
+    h2{
+        color: aliceblue;
+    }
+    li{
+        color:chocolate
+    }
+    tr{
+        color: chocolate
+    }
+    p{
+        color: aliceblue;
+        
+    }
+    a{
+        color: yellow;
+    }
+}
